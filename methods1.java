@@ -1,4 +1,4 @@
-package Projects;
+package projects_40;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
